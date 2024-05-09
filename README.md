@@ -5,16 +5,25 @@ Introduction to Google Ads Certification:
 Google Ads certification, provided by Google, serves as a hallmark of proficiency in the fundamental and advanced facets of Google Ads. It caters to a diverse audience encompassing marketers, advertisers, and business owners alike, all seeking to bolster their acumen in online advertising. This accreditation isn't just a special; it's a testament to one's commitment to staying abreast of the dynamic digital landscape.
 
 Step 1: Understand the Google Ads Certification Program
+
 Step 2: Create a Google Partners Account
+
 Step 3: Choose the Certification Path
+
 Step 4: Prepare for the Exam
+
 Step 5: Study the Exam Topics
-Step 5: Study the Exam Topics
+
 Step 6: Practice with Google Ads
+
 Step 7: Take the Practice Exams
+
 Step 8: Schedule the Exam
+
 Step 9: Take the Certification Exam
+
 Step 10: Review Your Results
+
 Step 11: Maintain Your Certification
 
 For marketers, Google Ads certification is a gateway to sharpening their strategic advertising prowess. It equips them with the knowledge and skills necessary to craft compelling ad campaigns, optimize targeting strategies, and maximize ROI. With certification in hand, marketers can offer clients tangible proof of their expertise, instilling trust and confidence in their ability to deliver results.
