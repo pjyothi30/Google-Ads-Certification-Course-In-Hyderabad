@@ -1,0 +1,57 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Ads Certification Course in Hyderabad</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+            line-height: 1.6;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+        .button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Google Ads Certification Course in Hyderabad</h1>
+        <p>Join our comprehensive Google Ads Certification Course in Hyderabad and become proficient in digital advertising. Our course covers everything from setting up campaigns to optimizing ad performance.</p>
+        <p>Course Highlights:</p>
+        <ul>
+            <li>Hands-on training by industry experts</li>
+            <li>Learn to create effective ad campaigns</li>
+            <li>Optimize ad performance for better ROI</li>
+            <li>Get prepared for Google Ads certification exams</li>
+        </ul>
+        <p>Ready to kickstart your career in digital marketing? Enroll now!</p>
+        <a href="#" class="button">Enroll Now</a>
+    </div>
+</body>
+</html>
